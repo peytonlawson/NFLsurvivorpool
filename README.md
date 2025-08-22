@@ -16,12 +16,11 @@ This project is a fully automated **NFL Survivor Pool app** built entirely insid
 ## 📷 Screenshots
 <img width="489" height="527" alt="Screenshot 2025-08-21 182420" src="https://github.com/user-attachments/assets/1d6912b8-04a4-4556-b841-3b9b84dbd69e" />
 
+- Dashboard View
+
 <img width="685" height="512" alt="Screenshot 2025-08-21 182727" src="https://github.com/user-attachments/assets/3aa3169e-5a3b-46a0-af0a-05c2bbd7c215" />
 
-
-- Dashboard View
 - Picks Sheet (with dropdowns and status indicators)
-- Admin Panel
 
 ## 🛠 Technologies Used
 
