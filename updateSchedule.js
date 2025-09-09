@@ -5,7 +5,7 @@ function updateSchedule() {
   const weekValue = picksSheet.getRange("I5").getValue();
 
   // Scrape recent NFL game results
-  const response = UrlFetchApp.fetch("https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4391&r=" + weekValue);
+  const response = UrlFetchApp.fetch("https://www.thesportsdb.com/api/v1/json/API-KEY/eventsround.php?id=4391&r=" + weekValue);
   const data = JSON.parse(response.getContentText());
   const games = data.events || [];
 
