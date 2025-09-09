@@ -14,11 +14,19 @@ This project is a fully automated **NFL Survivor Pool app** built entirely insid
 - 🎨 App-like formatting and status indicators
 
 ## 📷 Screenshots
-<img width="489" height="527" alt="Screenshot 2025-08-21 182420" src="https://github.com/user-attachments/assets/1d6912b8-04a4-4556-b841-3b9b84dbd69e" />
+<img width="1520" height="1082" alt="Screenshot 2025-09-09 152027" src="https://github.com/user-attachments/assets/50c75b99-081f-45bb-8bb1-381333278e62" />
 
 - Dashboard View
 
-<img width="685" height="512" alt="Screenshot 2025-08-21 182727" src="https://github.com/user-attachments/assets/3aa3169e-5a3b-46a0-af0a-05c2bbd7c215" />
+<img width="1078" height="791" alt="Screenshot 2025-09-09 152042" src="https://github.com/user-attachments/assets/4a545f03-9674-4942-aa31-75ef1dd383ba" />
+
+- Schedule of upcoming NFL Games automatically updates every Tuesday morning.
+
+<img width="1433" height="868" alt="Screenshot 2025-09-09 152106" src="https://github.com/user-attachments/assets/5a66cd10-008f-4037-b144-28a9eec29622" />
+
+- Players sheet showing previous picks and player status
+
+<img width="999" height="882" alt="Screenshot 2025-09-09 152116" src="https://github.com/user-attachments/assets/e739e651-3d60-4ef3-8ef9-048db539dbb8" />
 
 - Picks Sheet (with dropdowns and status indicators)
 
