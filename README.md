@@ -12,6 +12,7 @@ This project is a fully automated **NFL Survivor Pool app** built entirely insid
 - 🧼 Hands-off operation — designed to run itself once set up
 - 📡 Scrapes NFL scores to determine who is eliminated
 - 🎨 App-like formatting and status indicators
+- 🗓️ NFL game schedule automatically updates with current week
 
 ## 📷 Screenshots
 <img width="1520" height="1082" alt="Screenshot 2025-09-09 152027" src="https://github.com/user-attachments/assets/50c75b99-081f-45bb-8bb1-381333278e62" />
